@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 96" role="img" aria-labelledby="title desc">
+  <title id="title">Meshuko's S and G Farm</title><desc id="desc">Sheep and goat farm emblem</desc>
+  <rect width="480" height="96" rx="18" fill="#173c30"/>
+  <g transform="translate(13 12)">
+    <rect width="72" height="72" rx="16" fill="#dfc98c"/>
+    <path d="M14 42c-4-3-4-9 1-12 1-6 8-8 13-5 4-6 12-5 15 0 6-2 12 2 12 8 4 3 3 10-2 12H22c-5 0-8-1-8-3Z" fill="#173c30"/>
+    <circle cx="52" cy="31" r="9" fill="#f8f5ea"/>
+    <path d="M56 32l9 3-8 5-4-2" fill="#173c30"/>
+    <circle cx="54" cy="29" r="1.5" fill="#173c30"/>
+    <path d="M22 47v9m20-9v9" stroke="#173c30" stroke-width="4" stroke-linecap="round"/>
+    <path d="M16 18c2-6 10-6 12 0m7-3c3-6 11-4 12 2" fill="none" stroke="#173c30" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="99" y="41" fill="#f8f5ea" font-family="Arial, Helvetica, sans-serif" font-size="20" font-weight="700" letter-spacing=".4">MESHUKO'S S AND G FARM</text>
+  <text x="100" y="65" fill="#dfc98c" font-family="Arial, Helvetica, sans-serif" font-size="11" letter-spacing="2.2">SHEEP &amp; GOAT RECORDS</text>
+</svg>

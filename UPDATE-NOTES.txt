@@ -1,0 +1,12 @@
+MESHUKO'S S AND G FARM — CLIENT FEEDBACK UPDATE
+
+Updated based on the customer's paper record:
+- Report date remains clear at the top of the daily report.
+- Displays Type, Breed, Sex, Category, Current Quantity, Newborns by sex, New Stock, Transfer In/Out, Lost, Mortality, Sold, Slaughter, Net Quantity and Sick.
+- Keeps Group name, Tip Tag and Colour/Tag Colour visible too.
+- Added a clear newborn entry section, with separate Male and Female counts and totals.
+- Updated stock calculations, validation, API and PostgreSQL finalization function for the new fields.
+- Added idempotent SQL migration 002_newborn_by_sex.sql to preserve existing records.
+- Added tests for newborn quantities and sex/category validation.
+
+Important: this ZIP excludes the private .env and node_modules. Copy your own .env into this folder before starting the app. Back up Neon data, then run `npm run db:migrate` before testing the updated version.

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+<title id="title">Sheep and goats grazing on a farm</title><desc id="desc">Illustrated pastoral farm landscape with sheep and goats</desc>
+<defs>
+ <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#d9e8cf"/><stop offset="1" stop-color="#f4eedb"/></linearGradient>
+ <linearGradient id="field" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#9eaf7a"/><stop offset="1" stop-color="#57775b"/></linearGradient>
+ <g id="sheep"><ellipse cx="0" cy="0" rx="76" ry="44" fill="#f7f2e5"/><g fill="#fffaf0"><circle cx="-51" cy="-24" r="27"/><circle cx="-22" cy="-37" r="30"/><circle cx="12" cy="-37" r="31"/><circle cx="44" cy="-23" r="27"/><circle cx="-57" cy="5" r="25"/><circle cx="-19" cy="4" r="29"/><circle cx="19" cy="6" r="29"/><circle cx="48" cy="5" r="24"/></g><path d="M55-16 Q86-31 102-8 L111 16 93 35 75 22 62 10Z" fill="#b5a28b"/><ellipse cx="100" cy="3" rx="12" ry="16" fill="#b5a28b"/><circle cx="104" cy="0" r="3" fill="#243b2f"/><path d="M-44 32l-4 48m28-46-3 47m41-47 3 47m21-49 5 48" stroke="#655c4a" stroke-width="9" stroke-linecap="round"/></g>
+ <g id="goat"><path d="M-64-3Q-54-45-15-39L28-31 54-12 47 23 12 35-41 25Z" fill="#a87850"/><path d="M27-28L56-54 75-43 67-10 48 14Z" fill="#a87850"/><path d="M51-45L58-70 70-50m-29 13L33-63 27-43" fill="none" stroke="#504435" stroke-width="7" stroke-linecap="round"/><path d="M58 6l-5 24 9 2 7-24" fill="#f7f2e5"/><circle cx="63" cy="-29" r="3" fill="#243b2f"/><path d="M-42 20l-3 54m23-50 4 51m27-53 4 51m18-58 2 58" stroke="#504435" stroke-width="7" stroke-linecap="round"/></g>
+</defs>
+<rect width="1200" height="760" fill="url(#sky)"/>
+<circle cx="1000" cy="110" r="53" fill="#f6df9c" opacity=".85"/>
+<path d="M0 265Q170 180 340 250T700 226T1200 210V470H0Z" fill="#b8c9a0"/>
+<path d="M0 350Q170 270 380 340T760 310T1200 325V760H0Z" fill="url(#field)"/>
+<path d="M0 500Q250 420 500 520T950 515T1200 460V760H0Z" fill="#496b4f" opacity=".62"/>
+<path d="M130 285l35-70 35 70m780-30 27-53 27 53" fill="#708664" opacity=".8"/>
+<g opacity=".82" transform="translate(90 475) scale(.85)"><use href="#sheep"/></g>
+<g transform="translate(370 500) scale(1.18)"><use href="#goat"/></g>
+<g transform="translate(615 448) scale(1.06)"><use href="#sheep"/></g>
+<g transform="translate(880 540) scale(1.28)"><use href="#goat"/></g>
+<g transform="translate(1060 420) scale(.72)"><use href="#sheep"/></g>
+<g transform="translate(200 645) scale(.62)"><use href="#goat"/></g>
+<g transform="translate(530 650) scale(.65)"><use href="#sheep"/></g>
+<g transform="translate(780 645) scale(.58)"><use href="#sheep"/></g>
+<g stroke="#d8d9b0" stroke-linecap="round" opacity=".75"><path d="M80 390l-8 22m45-4-7 25m225-64-8 22m-42 101-8 19m333-65-8 19m85 109-7 23m210-172-6 17m158 150-7 19m-145 54-6 20" stroke-width="4"/></g>
+<rect x="0" y="0" width="1200" height="760" fill="#173c30" opacity=".04"/>
+</svg>
